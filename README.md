@@ -1,2 +1,2 @@
 # testing
-hexlet test-project
+hexlet test-project1
